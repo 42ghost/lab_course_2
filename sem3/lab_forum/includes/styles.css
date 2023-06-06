@@ -1,0 +1,20 @@
+table {
+	margin: auto;
+}
+
+thead {
+	text-align: center;
+}
+
+textarea {
+	resize: none;
+}
+
+td.note {
+	table-layout:fixed;
+	width:400px;
+}
+
+.like {
+	background-color: rgba(28,28,28,0);
+}
