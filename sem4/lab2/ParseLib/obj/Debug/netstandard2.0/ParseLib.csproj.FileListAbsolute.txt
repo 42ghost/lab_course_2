@@ -1,0 +1,17 @@
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\obj\Debug\netstandard2.0\ParseLib.csproj.AssemblyReference.cache
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\obj\Debug\netstandard2.0\ParseLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\obj\Debug\netstandard2.0\ParseLib.AssemblyInfoInputs.cache
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\obj\Debug\netstandard2.0\ParseLib.AssemblyInfo.cs
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\obj\Debug\netstandard2.0\ParseLib.csproj.CoreCompileInputs.cache
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\bin\Debug\netstandard2.0\ParseLib.deps.json
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\bin\Debug\netstandard2.0\ParseLib.dll
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\bin\Debug\netstandard2.0\ParseLib.pdb
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\obj\Debug\netstandard2.0\ParseLib.csproj.CopyComplete
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\obj\Debug\netstandard2.0\ParseLib.dll
+C:\Users\winsu\OneDrive\Рабочий стол\lab2\ParseLib\obj\Debug\netstandard2.0\ParseLib.pdb

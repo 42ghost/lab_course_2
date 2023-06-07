@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpCoJBG9hGc/MOXdlUYfkJQamF9ab+QLzjeILx5AFONmQj6ucA5oFZhgZJKW6OeED+P+6rPqwSx5jIvC0q+fTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\winsu\\OneDrive\\Рабочий стол\\lab2\\ParseLib\\ParseLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\winsu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\winsu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
